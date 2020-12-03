@@ -1,10 +1,8 @@
-```diff
-Bio;
-+ Hello, I'm Cesare, and I'm from Italy!
-+ My preferred pronouns are she/her, but any is fine, really! :)
-+ I love light novels, even more so if we're talking about Wuxia/Xianxia/Xuanhuan novels! ( I capitalize them as a sign of respect. )
-- I'm a very polarizing, it's either hate me, or love me.
-```
+<h1>Bio</h1>
+<p>Hello, I'm Cesare, and I'm from Italy!</p>
+<p>My preferred pronouns are she/her, but any is fine, really! :)</p>
+<p>I love light novels, even more so if we're talking about Wuxia/Xianxia/Xuanhuan novels! ( I capitalize them as a sign of respect. )</p>
+<p>I'm a very polarizing person, it's either hate me, or love me.</p>
 
 ---
 
