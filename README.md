@@ -105,7 +105,7 @@
 <a href="https://github.com/ya-sach1/ya-sach1">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ya-sach1&hide=shell,lua,vim%20script,dockerfile,javascript&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ya-sach1&hide=shell,lua,vim%20script,dockerfile,javascript,html&hide_border=true"
 /></a>
 <a href="https://github.com/ya-sach1/ya-sach1">
   <img
