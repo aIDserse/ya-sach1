@@ -30,5 +30,4 @@
     <img src="https://img.shields.io/badge/OpenCOBOLIDE%20-%23121011.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
   <img src="https://img.shields.io/badge/windows%20(sadly)%20-%23121011.svg?&style=for-the-badge&logo=windows-95&logoColor=white"/>  
   <img src="https://img.shields.io/badge/freebsd%20-%23121011.svg?&style=for-the-badge&logo=FreeBSD&logoColor=red"/>
-  <p>I also use @OpenCobolIDE for COBOL</p>
 </div>
