@@ -23,5 +23,5 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=cyan&logo=visual-studio-code&style=for-the-badge&logoColor=green">
   <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
-  <img src="https://img.shields.io/static/v1?&label=Software&message=FreeBSD&color=white&logo=FreeBSD&style=for-the-badge&logoColor=light%20blue">
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=FreeBSD&logoColor=red"/>
 </div>
