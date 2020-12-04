@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/cobol%20-%23121011.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
   <img src="https://img.shields.io/badge/Fortran%20-%23121011.svg?&style=for-the-badge&logo=Farfetch&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/simula%20-%23121011.svg?&style=for-the-badge&logo=SaltStack&logoColor=green"/>
   <img src="https://img.shields.io/badge/c-sharp%20-%2343853D.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/swift%20-%23007ACC.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/assembly-%23ED8B00.svg?&style=for-the-badge&logo=automatic&logoColor=white"/>
