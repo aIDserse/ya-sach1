@@ -7,3 +7,5 @@
 <p>At school I study C# and Swift, so I will publish some programs with them, too</p>
 <p>So I tought: "Why shouldn't I develop open source on the most closed source language?"</p>
 <p>My other two passions are history and music, and I am working to programs on these topics</p>
+<p>I also repair mechanical calculators and typewriters:</p>
+<p>I have 4 Olivetti, 3 typewriters and a calculator, I also have a Totalia Multisumma, another mechanical calculator.</p>
