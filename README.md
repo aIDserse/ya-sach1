@@ -11,3 +11,16 @@
 <p>I have 4 Olivetti, 3 typewriters and a calculator, I also have a Totalia Multisumma, another mechanical calculator.</p>
 <p>Discord: aIDserse#5165</p>
 <p>Reddit: u/aIDserse</p>
+---
+<h1 align="center">Things that I should be able to do</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/c-sharp%20-%2343853D.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/swift%20-%23007ACC.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/assembly-%23ED8B00.svg?&style=for-the-badge&logo=automatic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+<h1 align="center">What I use to code</h1>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=cyan&logo=visual-studio-code&style=for-the-badge&logoColor=green">
+  <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
+</div>
