@@ -11,6 +11,24 @@
 <p>I have 4 Olivetti, 3 typewriters and a calculator, I also have a Totalia Multisumma, another mechanical calculator.</p>
 <p>Discord: aIDserse#5165</p>
 <p>Reddit: u/aIDserse</p>
+'''
+Fuck da system
+                      ..ed$$$$$$$ee.
+                   zd$$*"".$$*$$F"**$$e.
+                 d$$"    .$$" ^$$c   ^*$$.
+               z$$"     4$$"   ^$$c     *$b.
+              d$P      z$$"     ^$$L     ^$$.
+             J$P      z$$"       ^$$b     ^$$
+         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$F
+            4$$     J$$"            $$b    4$$
+            ^$$    d$$               *$$   4$$
+             $$L  d$$                 *$$  $$%
+             ^$$cd$$                   *$$d$P
+              ^$$$$                     *$$P
+                *$$c                  .d$$"
+                 ^*$$bc.           .e$$P"
+                    ^*$$$$$$eee$$$$$*"   
+'''          
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/cobol%20-%238a1616.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
