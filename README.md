@@ -32,10 +32,8 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-<h1 align="center">What am I doeing here?<h1>
+<h1 align="center">What am I doing here?<h1>
 
 <a href="https://github.com/aIDserse/aIDserse">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIDserse&hide_border=true"/></a>
-<a href="https://github.com/aIDserse/aIDserse">
-  <img align="center" src="https://github-readme-stats.aIDserse.vercel.app/api?username=aIDserse&hide_border=true&show_icons=true&count_private=true&langs_count=10"/>
 </a>
