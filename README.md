@@ -28,6 +28,6 @@
   <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/badge/Force%202.0%20-%23121011.svg?&style=for-the-badge&logo=Farfetch&logoColor=blue"/>
     <img src="https://img.shields.io/badge/OpenCOBOLIDE%20-%23121011.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
-  <img src="https://img.shields.io/badge/windows%20(sadly)Code&color=cyan%20-%23121011.svg?&style=for-the-badge&logo=windows-95&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/windows%20(sadly)%20Code&color=cyan%20-%23121011.svg?&style=for-the-badge&logo=windows-95&logoColor=white"/>  
   <img src="https://img.shields.io/badge/freebsd%20-%23121011.svg?&style=for-the-badge&logo=FreeBSD&logoColor=red"/>
 </div>
