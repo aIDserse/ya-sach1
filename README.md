@@ -9,6 +9,17 @@
 <p>My other two passions are history and music, and I am working to programs on these topics</p>
 <p>I also repair mechanical calculators and typewriters:</p>
 <p>I have 4 Olivetti, 3 typewriters and a calculator, I also have a Totalia Multisumma, another mechanical calculator.</p>
+<p>Fuck da system
+<p>....................../´¯/) </p>
+<p>....................,/¯../ </p>
+<p>.............../..../ </p>
+<p>......../´¯/'...'/´¯¯`·¸</p>
+<p>........../'/.../..../......./¨¯\</p> 
+<p>........('(...´...´.... ¯~/'...') </p>
+<p>.........\.................'...../ </p>
+<p>..........''...\.......... _.·´ </p>
+<p>............\..............(>    </p>
+<p>..............\.............\...</p>
 <p>Discord: aIDserse#5165</p>
 <p>Reddit: u/aIDserse</p>
 <h1 align="center">Things that I should be able to do</h1>
