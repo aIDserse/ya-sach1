@@ -13,7 +13,7 @@
 <p>Reddit: u/aIDserse</p>
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
-  <img src="https://img.shields.io/badge/cobol%20-%c42727.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
+  <img src="https://img.shields.io/badge/cobol%20-%c42525.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
   <img src="https://img.shields.io/badge/Fortran%20-%23395266.svg?&style=for-the-badge&logo=Farfetch&logoColor=blue"/>
   <img src="https://img.shields.io/badge/simula%20-%230a0b54.svg?&style=for-the-badge&logo=SaltStack&logoColor=green"/>
   <img src="https://img.shields.io/badge/c-sharp%20-%2343853D.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/static/v1?label=Editor&message=Visual%20Studio%20Code&color=cyan&logo=visual-studio-code&style=for-the-badge&logoColor=green">
   <img src="https://img.shields.io/static/v1?&label=Software&message=Visual%20Studio&color=purple&logo=visual-studio&style=for-the-badge&logoColor=light%20blue">
   <img src="https://img.shields.io/badge/Force%202.0%20-%23395266.svg?&style=for-the-badge&logo=Farfetch&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/OpenCOBOLIDE%20-%c42727.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
+  <img src="https://img.shields.io/badge/OpenCOBOLIDE%20-%c42525.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
   <img src="https://img.shields.io/badge/windows%20(sadly)%20-%23499977.svg?&style=for-the-badge&logo=windows-95&logoColor=white"/>  
   <img src="https://img.shields.io/badge/freebsd%20-%23121011.svg?&style=for-the-badge&logo=FreeBSD&logoColor=red"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
