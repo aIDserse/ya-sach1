@@ -35,5 +35,5 @@
 <h1 align="center">My (super boring) stats<h1>
 
 <a align="center" href="https://github.com/aIDserse/aIDserse">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIDserse&hide_border=true"/></a>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIDserse&hide_border=false"/></a>
 </a>
