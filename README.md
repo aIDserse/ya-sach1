@@ -12,23 +12,14 @@
 <p>Discord: aIDserse#5165</p>
 <p>Reddit: u/aIDserse</p>
 ```
-Fuck da system
-                      ..ed$$$$$$$ee.
-                   zd$$*"".$$*$$F"**$$e.
-                 d$$"    .$$" ^$$c   ^*$$.
-               z$$"     4$$"   ^$$c     *$b.
-              d$P      z$$"     ^$$L     ^$$.
-             J$P      z$$"       ^$$b     ^$$
-         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$F
-            4$$     J$$"            $$b    4$$
-            ^$$    d$$               *$$   4$$
-             $$L  d$$                 *$$  $$%
-             ^$$cd$$                   *$$d$P
-              ^$$$$                     *$$P
-                *$$c                  .d$$"
-                 ^*$$bc.           .e$$P"
-                    ^*$$$$$$eee$$$$$*"   
-```      
+ESC F1 F2 F3 F4 F5 F6 F7 F8 F9 F10 F11 F12   F13 F14 F15
+
+`  1  2  3  4  5  6  7  8  9  0  -  =  DEL   FN  HOM PGU   CL =  /  *
+TB  Q  W  E  R  T  Y  U  I  O  P  [  ]  \    DEL END PGD   7  8  9  -
+CAP  A  S  D  F  G  H  J  K  L  ;  '   RTN                 4  5  6  +
+SHFT  Z  X  C  V  B  N  M  ,  .  /   SHIFT        ^        1  2  3
+CTRL ALT CMD ________________ CMD ALT CTRL    <   v   >    0     .  <
+```
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/cobol%20-%238a1616.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
