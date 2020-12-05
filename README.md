@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-<h1 align="center">What am I doing here?<h1>
+<h1 align="center">My (super boring) stats<h1>
 
-<a href="https://github.com/aIDserse/aIDserse">
+<a align="center" href="https://github.com/aIDserse/aIDserse">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIDserse&hide_border=true"/></a>
 </a>
