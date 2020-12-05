@@ -10,6 +10,7 @@
 <p>I also repair mechanical calculators and typewriters:</p>
 <p>I have 4 Olivetti, 3 typewriters and a calculator, I also have a Totalia Multisumma, another mechanical calculator.</p>
 ```
+
 cR%`
   p
   q
@@ -17,6 +18,7 @@ cR%`
   d\__
   |o%*}`
   |\ /|
+  
 ```
 <p>Discord: aIDserse#5165</p>
 <p>Reddit: u/aIDserse</p>
