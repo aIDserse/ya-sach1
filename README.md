@@ -37,8 +37,7 @@
   <img src="https://img.shields.io/badge/Force%202.0%20-%23395266.svg?&style=for-the-badge&logo=Farfetch&logoColor=blue"/>
   <img src="https://img.shields.io/badge/OpenCOBOLIDE%20-%238a1616.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
   <img src="https://img.shields.io/badge/windows%20(sadly)%20-%23499977.svg?&style=for-the-badge&logo=windows-95&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/freebsd%20-%23121011.svg?&style=for-the-badge&logo=FreeBSD&logoColor=red"/>
-  <img src="https://img.shields.io/badge/netbsd%20-%23121011.svg?&style=for-the-badge&logo=flag&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/various%20bsd%20-%23121011.svg?&style=for-the-badge&logo=FreeBSD&logoColor=red"/>
   <img src="https://img.shields.io/badge/mac%20OS%20(sadly)%20-%23FFFFFF.svg?&style=for-the-badge&logo=Apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
