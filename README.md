@@ -22,7 +22,7 @@
     /></a>
         <a href="https://stackoverflow.com/users/13540898/aidserse"
       ><img
-        src="https://img.shields.io/badge/Stackoverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=orange"
+        src="https://img.shields.io/badge/Stackoverflow-ffa500?style=for-the-badge&logo=stackoverflow&logoColor=white"
     /></a>
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
