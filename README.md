@@ -34,9 +34,3 @@
   <img src="https://img.shields.io/badge/mac%20OS%20(sadly)%20-%23FFFFFF.svg?&style=for-the-badge&logo=Apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
-<h1 align="center">My (super boring) stats<h1>
-
-<a align="center" ref="https://github.com/aIDserse/aIDserse">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIDserse&hide_border=false"/></a>
-</a>
