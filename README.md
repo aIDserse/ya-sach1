@@ -11,7 +11,11 @@
 <p>I have 4 Olivetti, 3 typewriters and a calculator, I also have a Totalia Multisumma, another mechanical calculator.</p>
 <p>The guy in the photo is Brian Wilson, Beach Boys member and composer, during the photographic session for the album "Pet Sounds"</p>
 <p>Yes, have I already said that I love music?</p>
-<p>Discord: aIDserse#5165</p>
+  <div>
+    <a href="https://dsc.bio/aidserse"
+      ><img
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+    /></a>
 <p>Reddit: u/aIDserse</p>
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
