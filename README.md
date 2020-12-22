@@ -16,7 +16,10 @@
       ><img
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
     /></a>
-<p>Reddit: u/aIDserse</p>
+    <a href="https://reddit.com/u/ya-sach1"
+      ><img
+        src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
+    /></a>
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/cobol%20-%238a1616.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
