@@ -20,6 +20,10 @@
       ><img
         src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
     /></a>
+        <a href="https://dsc.bio/sach"
+      ><img
+        src="https://img.shields.io/badge/Stackoverflow-7289DA?style=for-the-badge&logo=stackoverflow&logoColor=orange"
+    /></a>
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/cobol%20-%238a1616.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
