@@ -12,8 +12,6 @@
 <p>The guy in the photo is Brian Wilson, Beach Boys member and composer, during the photographic session for the album "Pet Sounds"</p>
 <p>Yes, have I already said that I love music?</p>
  </div>
-  <h1>Contacts</h1>
-  <div>
     <a href="https://dsc.bio/aidserse"
       ><img
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
