@@ -53,5 +53,5 @@
 <div align="center">
  <img src="https://img.shields.io/badge/playstation%202%20-%230000FF.svg?&style=for-the-badge&logo=playstation-2&logoColor=white"/>  
  <img src="https://img.shields.io/badge/playstation%203%20-%230000FF.svg?&style=for-the-badge&logo=playstation-3&logoColor=white"/>  
- <img src="https://img.shields.io/badge/nintendo%203ds%20-%2387CEFA.svg?&style=for-the-badge&logo=nintendo-3ds&logoColor=white"/>  
- <img src="https://img.shields.io/badge/(jailbroken)%20nintendo%20Wii%20-%23800080.svg?&style=for-the-badge&logo=wii&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/nintendo%203ds%20-%23800080.svg?&style=for-the-badge&logo=nintendo-3ds&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/(jailbroken)%20nintendo%20Wii%20-%2387CEFA.svg?&style=for-the-badge&logo=wii&logoColor=white"/> 
