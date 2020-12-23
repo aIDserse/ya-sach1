@@ -24,6 +24,11 @@
       ><img
         src="https://img.shields.io/badge/Stackoverflow-ff7514?style=for-the-badge&logo=stackoverflow&logoColor=white"
     /></a>
+    /></a>
+        <a href="aIDserse.aternos.me"
+      ><img
+        src="https://img.shields.io/badge/Minecraft%20Server-ff7514?style=for-the-badge&logo=minecraft&logoColor=brown"
+    /></a>
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/cobol%20-%238a1616.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
