@@ -51,4 +51,4 @@
 </div>
 <h1 align="center">I really like videogames! I own:</h1>
 <div align="center">
-   <img src="https://img.shields.io/badge/Playstation%202%20-%230000FF.svg?&style=for-the-badge&logo=playstation-2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/windows%20(sadly)%20-%23499977.svg?&style=for-the-badge&logo=playstation-2&logoColor=white"/>  
