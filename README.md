@@ -24,7 +24,6 @@
       ><img
         src="https://img.shields.io/badge/Stackoverflow-ff7514?style=for-the-badge&logo=stackoverflow&logoColor=white"
     /></a>
-    /></a>
         <a href="aIDserse.aternos.me"
       ><img
         src="https://img.shields.io/badge/Minecraft%20Server-ff7514?style=for-the-badge&logo=minecraft&logoColor=brown"
