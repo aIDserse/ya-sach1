@@ -49,3 +49,6 @@
   <img src="https://img.shields.io/badge/mac%20OS%20(sadly)%20-%23FFFFFF.svg?&style=for-the-badge&logo=Apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
+<h1 align="center">I really like videogames! I own:</h1>
+<div align="center">
+   <img src="https://img.shields.io/badge/Playstation%202%20-%23395266.svg?&style=for-the-badge&logo=PS2&logoColor=blue"/>
