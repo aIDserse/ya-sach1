@@ -52,4 +52,5 @@
 <h1 align="center">I really like videogames! I own:</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/playstation%202%20-%230000FF.svg?&style=for-the-badge&logo=playstation-2&logoColor=white"/>  
-   <img src="https://img.shields.io/badge/playstation%203%20-%230000FF.svg?&style=for-the-badge&logo=playstation-3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/playstation%203%20-%230000FF.svg?&style=for-the-badge&logo=playstation-3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/nintendo%203ds%20-%230000FF.svg?&style=for-the-badge&logo=nintendo-3ds&logoColor=white"/>  
