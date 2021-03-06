@@ -27,7 +27,8 @@
       ><img
         src="https://img.shields.io/badge/Stackoverflow-ff7514?style=for-the-badge&logo=stackoverflow&logoColor=white"
     /></a>
-<h1 align="center">My geek code!
+<h1 align="center">My geek code!</h1>
+<div align="center">
  -----BEGIN GEEK CODE BLOCK-----
 Version: 3.12
 GCM d--- s++:- a--- C++ UB++ P L++ E- W+ N++ o+ K- w--
