@@ -27,6 +27,13 @@
       ><img
         src="https://img.shields.io/badge/Stackoverflow-ff7514?style=for-the-badge&logo=stackoverflow&logoColor=white"
     /></a>
+<h1 align="center">My geek code!
+ -----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GCM d--- s++:- a--- C++ UB++ P L++ E- W+ N++ o+ K- w--
+O-- M V PS+ PE- Y+ PGP-- t 5 X R tv- b+ DI D++++
+G e- h r !y+
+------END GEEK CODE BLOCK------
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/cobol%20-%238a1616.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
