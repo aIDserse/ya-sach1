@@ -29,7 +29,6 @@
     /></a>
 <h1 align="center">My geek code!</h1>
 <div align="center">
-```
 
 ```
  -----BEGIN GEEK CODE BLOCK-----<br>
@@ -39,6 +38,7 @@ O-- M V PS+ PE- Y+ PGP-- t 5 X R tv- b+ DI D++++<br>
 G e- h r !y+<br>
 ------END GEEK CODE BLOCK------<br>
 ```
+
 <h1 align="center">Things that I should be able to do</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/cobol%20-%238a1616.svg?&style=for-the-badge&logo=c&logoColor=grey"/>
