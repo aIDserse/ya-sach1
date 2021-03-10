@@ -30,6 +30,8 @@
 <h1 align="center">My geek code!</h1>
 <div align="center">
 ```
+
+```
  -----BEGIN GEEK CODE BLOCK-----<br>
 Version: 3.12<br>
 GCM d--- s++:- a--- C++ UB++ P L++ E- W+ N++ o+ K- w--<br>
