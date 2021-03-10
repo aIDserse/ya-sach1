@@ -31,12 +31,12 @@
 <div align="center">
 
 ```
- -----BEGIN GEEK CODE BLOCK-----<br>
-Version: 3.12<br>
-GCM d--- s++:- a--- C++ UB++ P L++ E- W+ N++ o+ K- w--<br>
-O-- M V PS+ PE- Y+ PGP-- t 5 X R tv- b+ DI D++++<br>
-G e- h r !y+<br>
-------END GEEK CODE BLOCK------<br>
+ -----BEGIN GEEK CODE BLOCK-----
+Version: 3.12
+GCM d--- s++:- a--- C++ UB++ P L++ E- W+ N++ o+ K- w--
+O-- M V PS+ PE- Y+ PGP-- t 5 X R tv- b+ DI D++++
+G e- h r !y
+------END GEEK CODE BLOCK------
 ```
 
 <h1 align="center">Things that I should be able to do</h1>
