@@ -7,7 +7,7 @@
 <p>Jk apart, I really like COBOL and Fortran, but a lot of their code is closed source.</p>
 <p>So I tought: "Why shouldn't I develop open source on the most closed source languages?"</p>
 <p>At school I study C# and Swift, so I will publish some programs with them, too</p>
-<p>WTPL license fan, do the GPL you want with my code!</p>
+<p>WTFPL license fan, do the GPL you want with my code!</p>
 <p>I created the "SuS" series,a series of calculators with the same functions and the same interface.</p>
 <p>At the moment there are 5 versions: COBOL, Fortran, Simula, Swift and C#.</p>
 <p>My other two passions are history and music, and I am working to programs on these topics</p>
