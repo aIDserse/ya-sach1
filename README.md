@@ -59,11 +59,3 @@ G e- h r !y
   <img src="https://img.shields.io/badge/various%20bsd%20-%23121011.svg?&style=for-the-badge&logo=FreeBSD&logoColor=red"/>
   <img src="https://img.shields.io/badge/mac%20OS%20(sadly)%20-%23FFFFFF.svg?&style=for-the-badge&logo=Apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-<h1 align="center">I really like videogames! I own:</h1>
-<div align="center">
- <img src="https://img.shields.io/badge/playstation%202%20-%230000FF.svg?&style=for-the-badge&logo=playstation-2&logoColor=white"/>  
- <img src="https://img.shields.io/badge/playstation%203%20-%230000FF.svg?&style=for-the-badge&logo=playstation-3&logoColor=white"/>  
- <img src="https://img.shields.io/badge/nintendo%203ds%20-%23800080.svg?&style=for-the-badge&logo=nintendo-3ds&logoColor=white"/>  
- <img src="https://img.shields.io/badge/nintendo%20switch%20-%23FF0000.svg?&style=for-the-badge&logo=nintendo-switch&logoColor=white"/>  
- <img src="https://img.shields.io/badge/(jailbroken)%20nintendo%20Wii%20-%23007ACC.svg?&style=for-the-badge&logo=wii&logoColor=white"/> 
