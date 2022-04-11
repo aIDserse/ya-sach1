@@ -1,5 +1,5 @@
 <h1>Error 404, developer not found</h1>
-<p>Hello, I'm Giulio, and I'm from Italy!</p>
+<p>Hello, I'm Giulio, and I'm from Italy</p>
 <p>Cobol and Fortran as hobbys, Swift, C and C# at school</p>
 <p>I also repair mechanical calculators and typewriters:</p>
  </div>
