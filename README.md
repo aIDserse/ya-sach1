@@ -2,6 +2,7 @@
 <p>Hello, I'm Giulio, and I'm from Italy</p>
 <p>Cobol and Fortran as hobbys, Java, Swift, C and C# at school</p>
 <p>Linux and BSD enthusiast</p>
+<p>I always push to main because i don't have much to lose (my code's bad anyway)</p>
 <p>I also repair mechanical calculators and typewriters</p>
  </div>
     <a href="https://dsc.bio/aidserse"
